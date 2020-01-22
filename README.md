@@ -1,5 +1,5 @@
 # Catch-Up
-Build an AI that uses a Q table to optimally solve a game of Catch-up.\
+Build an AI that uses a Q table to learn how to play a game of Catch-up.\
 More information about the game Catch-Up can be found at http://game.engineering.nyu.edu/projects/catch-up/.
 
 References\
